@@ -42,7 +42,6 @@ async function handleEvent(event) {
     ------------------------------------------ */
 
   /* ここでメッセージを返す。(replyTextに返すメッセージが入っている。) */
-
   return client.replyMessage(event.replyToken, {
     type: "text",
     text: replyText,
