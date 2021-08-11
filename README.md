@@ -18,8 +18,5 @@ $ npm init
 ```
 $ npm install express @line/bot-sdk node-dev --save
 ```
+※node-devは好みなので別になくてもいい。
 
-※node-devは好み。
-
-### node-dev
-node.jsをホットリロードで開発できるもの
