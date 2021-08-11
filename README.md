@@ -16,5 +16,10 @@ $ npm init
 ## 必要なモジュール
 
 ```
-$ npm install exxpress @line/bot-sdk node-dev --save
+$ npm install express @line/bot-sdk node-dev --save
 ```
+
+※node-devは好み。
+
+### node-dev
+node.jsをホットリロードで開発できるもの
